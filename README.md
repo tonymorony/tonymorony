@@ -1,16 +1,30 @@
-### Hi there 👋
+### Welcome 👋
 
-<!--
-**tonymorony/tonymorony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align='right' src='https://user-images.githubusercontent.com/24797699/124526908-ec077500-de25-11eb-9484-42ce667bb351.jpeg' width='333"'>
 
-Here are some ideas to get you started:
+My name is Anton aka TonyL and I'm building blockchain tech as a part of Komodo team.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Some
+
+info
+
+will
+
+be
+
+there
+
+Some
+
+info
+
+will
+
+be
+
+there
+
+<a href="https://github.com/tonymorony">
+  <img src="https://github-readme-stats.vercel.app/api?username=tonymorony&show_icons=true" alt="tonymorony's GitHub Stats" />
+</a>
+
